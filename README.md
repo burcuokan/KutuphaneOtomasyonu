@@ -12,3 +12,5 @@ Veritabanlı kitap ekleme, güncelleme, listeleme, iade alma ve verme işlemleri
 ![Ekran Alıntısı 4](https://github.com/user-attachments/assets/fabac1d9-03df-4014-92f8-20324e4d536d)
 
 ![Ekran Alıntısı 5](https://github.com/user-attachments/assets/1701968e-8059-45f3-95e1-07e3b788239f)
+
+![Ekran Alıntısı 6](https://github.com/user-attachments/assets/d3227c7c-c2e8-4cf9-9f9c-1a0027075c0b)
