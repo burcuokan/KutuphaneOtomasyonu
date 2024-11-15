@@ -2,6 +2,7 @@
 Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştiren bir yazılım uygulamasıdır. Kullanıcılar, üyelik işlemleri yaparak kitapları yönetebilir, kitap ödünç alabilir ve iade edebilirler. Sistem C# dili ile geliştirilmiş olup, veritabanı yönetimi için SQL kullanılmıştır. Projede kullanılan temel işlevler şunlardır:
 
 🔐 Kullanıcı Girişi
+
 • Sisteme giriş yapabilmek için E-mail ve şifre doğrulaması yapılır.
 • Kullanıcı bilgileri veritabanında saklanır ve giriş yapılmadan diğer işlemler yapılamaz.
 • Giriş işlemi başarılı olduğunda, kullanıcı ana menüye yönlendirilir.
