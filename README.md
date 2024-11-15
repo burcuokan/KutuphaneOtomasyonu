@@ -3,6 +3,8 @@ Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştir
 
 🔐 **Kullanıcı Girişi**
 
+---------------------------------------------------------------------------------------------------------
+
 • Sisteme giriş yapabilmek için E-mail ve şifre doğrulaması yapılır.
 
 • Kullanıcı bilgileri veritabanında saklanır ve giriş yapılmadan diğer işlemler yapılamaz.
