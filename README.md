@@ -1,5 +1,5 @@
 # 🚀 KÜTÜPHANE OTOMASYONU
----
+
 Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştiren bir yazılım uygulamasıdır. Kullanıcılar, üyelik işlemleri yaparak kitapları yönetebilir, kitap ödünç alabilir ve iade edebilirler. Sistem C# dili ile geliştirilmiş olup, veritabanı yönetimi için SQL kullanılmıştır. Projede kullanılan temel işlevler şunlardır:
 
 🔐 **Kullanıcı Girişi**
