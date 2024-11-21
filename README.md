@@ -1,8 +1,10 @@
-# KutuphaneOtomasyonu
+# 🚀 KÜTÜPHANE OTOMASYONU
+---
+
 Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştiren bir yazılım uygulamasıdır. Kullanıcılar, üyelik işlemleri yaparak kitapları yönetebilir, kitap ödünç alabilir ve iade edebilirler. Sistem C# dili ile geliştirilmiş olup, veritabanı yönetimi için SQL kullanılmıştır. Projede kullanılan temel işlevler şunlardır:
 
 🔐 **Kullanıcı Girişi**
-
+---
 
 • Sisteme giriş yapabilmek için E-mail ve şifre doğrulaması yapılır.
 
@@ -13,22 +15,26 @@ Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştir
 • Üye kayıt işlemi yapılır.
 
 📑 **Kitap Ekleme**
+---
 
 • Kitap adı, yazarı, türü, yayınevi, basım yılı, stok sayısı, açıklama gibi bilgiler eklenebilir.
 
 📚 **Kitap Listeleme**
+---
 
 • Listeleme işlemi, kitapların adı,yazarı ve diğer önemli bilgileriyle yapılır.
 
 • Kullancılar, kitapları belirli kriterlere göre sıralayabilir veya arama yaparak istedikleri kitaplara hızlıca ulaşabilirler.
 
 👥 **Üye Listeleme**
+---
 
 • Kütüphaneye kayıtlı tüm üyeleri listeleyebilir.
 
 • Üyelerin bilgileri (ad,soyad,tc vb.) veritabanından çekilerek, kolayca görüntülenebilir.
 
 🔄📚 **Emanet Kitap Verme**
+---
 
 • Kütüphanedeki kitaplara üyelere ödünç verilebilir.
 
@@ -39,6 +45,7 @@ Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştir
 • Kitap ödünç verildikten sonra, kitap adedi otomatik olarak güncellenir.
 
 📚🔄 **Emanet Kitap İade**
+---
 
 • Kullanıcılar, emanet aldıkları kitapları iade edebilirler.
 
@@ -47,6 +54,7 @@ Bu proje, bir kütüphane otomasyon sisteminin temel işlevlerini gerçekleştir
 • İade işlemi sonrası, kitap tekrar kütüphaneye eklenir ve mevcut adedi güncellenir.
 
 📝 **Emanet Kitap Listeleme**
+---
 
 • Ödünç verilen kitaplar listelenebilir.
 
